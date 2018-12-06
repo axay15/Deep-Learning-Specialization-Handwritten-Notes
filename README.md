@@ -1,5 +1,5 @@
-Deep Learning Specialization by deeplearning.ai
 
-Handwritten notes for the five-course specialization.
+
+Handwritten notes for Deep Learning Specialization by deeplearning.ai
 
 Course 1 - Neural Networks and Deep Learning
